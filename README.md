@@ -1,7 +1,10 @@
 # 🌙 YouTube_Lunas — 月華星算頻道策略系統
 **頻道：** [Linara 凌璇@月華星算 Luna's Astral Code](https://www.youtube.com/@Linara_LunasAstralCode)  
+
 **品牌名稱：** [月華星算 Luna's Astral Code]
+
 **藝名（虛擬人物）：** [Linara 凌璇]
+
 **定位：** 紫微斗數 × 奇門遁甲｜極致垂直命理頻道  
 **版本：** v1.0｜2026-07-05  
 **飛輪階段：** #2 YouTube 內容資產建置中（前置 #1 IG 關鍵字池已具備）
