@@ -10,7 +10,7 @@
 |------|------|
 | 頻道名稱 | Linara 凌璇＠月華星算 Luna's Astral Code |
 | 頻道連結 | [@Linara_LunasAstralCode](https://www.youtube.com/@Linara_LunasAstralCode) |
-| 定位 | 紫微斗斘尖 × 奇門遁甲雙軌命理｜礦石風水布局 |
+| 定位 | 紫微斗數 × 奇門遁甲雙軌命理｜礦石風水布局 |
 | 命理 IG | [lunasastralcode](https://www.instagram.com/lunasastralcode) |
 | 礦石 IG | [lunasstoneatelier](https://www.instagram.com/lunasstoneatelier) |
 
@@ -21,7 +21,7 @@
 | 文件 | 說明 | 狀態 |
 |------|------|------|
 | [ALGORITHM_VIRAL_RULES.md](./ALGORITHM_VIRAL_RULES.md) | YouTube 演算法三大機制 × 爆款四大法則，含 SOP Checklist、KPI、系列架構 | ✅ 已完成 |
-| [SEO_KEYWORDS.md](./SEO_KEYWORDS.md) | 紫微斗斘尖 × 奇門遁甲 SEO 關鍵字全庫，含 Tag套組、禁用詞、映射公式 | ✅ 已完成 |
+| [SEO_KEYWORDS.md](./SEO_KEYWORDS.md) | 紫微斗數 × 奇門遁甲 SEO 關鍵字全庫，含 Tag套組、禁用詞、映射公式 | ✅ 已完成 |
 | [CONTENT_CALENDAR.md](./CONTENT_CALENDAR.md) | 9款選題類型優先序 × 8月第一個月 8 條影片發布計劃，含 Shorts、選題決策樹、系列對應 | ✅ 已完成 |
 | [SCRIPT_TEMPLATE.md](./SCRIPT_TEMPLATE.md) | 10 款爆款開場白模板 × 8 個致命地雷 × 三段式腳本結構 × CTA 三角模板 | ✅ 已完成 |
 
@@ -55,7 +55,6 @@
 | 🥉 | B2 | 警示預言型 | 礦石佈局自然植入 |
 | 🥉 | B5 | 宏觀大預言型 | 跨圈層破同溫層 |
 
-> ⚠️ A4（名人命盤型）暂擱，品牌護城河建立後再評估
 > 📌 完整選題表、發布計劃、系列對應 → [CONTENT_CALENDAR.md](./CONTENT_CALENDAR.md)
 
 ---
