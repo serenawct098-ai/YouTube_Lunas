@@ -1,6 +1,6 @@
 # 🌙 Linara 凌璇｜月華星算 Luna's Astral Code
 > YouTube 頻道知識庫 ｜ FORTRESS 五腦增長操作系統 — 飛輪 #2 YouTube 內容資產階段
-> 最後更新：2026-07-21 ｜ 版本 v1.5
+> 最後更新：2026-07-21 ｜ 版本 v1.6
 
 ---
 
@@ -18,19 +18,34 @@
 
 ## 📂 文檔索引
 
-| 文件 | 說明 | 狀態 |
-|------|------|------|
-| [ALGORITHM_VIRAL_RULES.md](./ALGORITHM_VIRAL_RULES.md) | YouTube 演算法三大機制 × 爆款四大法則，含 SOP Checklist、KPI、系列架構 | ✅ 已完成 |
-| [SEO_KEYWORDS.md](./SEO_KEYWORDS.md) | 紫微斗數 × 奇門遁甲 SEO 關鍵字全庫，含 Tag套組、禁用詞、映射公式 | ✅ 已完成 |
-| [CONTENT_CALENDAR.md](./CONTENT_CALENDAR.md) | 9款選題類型優先序 × 8月第一個月 8 條影片發布計劃，含 Shorts、選題決策樹、系列對應 | ✅ 已完成 |
-| [SCRIPT_TEMPLATE.md](./SCRIPT_TEMPLATE.md) | 10 款爆款開場白模板 × 8 個致命地雷 × 三段式腳本結構 × CTA 三角模板 | ✅ 已完成 |
+| 文件 | 內容摘要 | 版本 | 狀態 |
+|------|---------|------|------|
+| [ALGORITHM_VIRAL_RULES.md](./ALGORITHM_VIRAL_RULES.md) | YouTube 演算法三大機制 × 爆款四大法則，含 SOP Checklist、KPI、系列架構 | v1.1 | ✅ |
+| [SEO_KEYWORDS.md](./SEO_KEYWORDS.md) | 紫微斗數 × 奇門遁甲 SEO 關鍵字全庫，含 Tag 套組、禁用詞、映射公式 | v1.2 | ✅ |
+| [CONTENT_CALENDAR.md](./CONTENT_CALENDAR.md) | 9 款選題類型優先序 × 8 月第一個月 8 條影片發布計劃，含 Shorts、選題決策樹、系列對應 | v1.3 | ✅ |
+| [SCRIPT_TEMPLATE.md](./SCRIPT_TEMPLATE.md) | 三段式腳本結構 × 10 款爆款開場白模板 × 9 款三梯隊書面語開場白 × 3 大高留存率錄製技巧 × 8 個致命地雷 × CTA 三角模板 | v1.3 | ✅ |
+
+---
+
+## SCRIPT_TEMPLATE 內容結構（v1.3）
+
+| 章節 | 內容 |
+|------|------|
+| 一 | 腳本三段式結構（Hook 開場 / 主體 / CTA 三角） |
+| 二 | 10 款爆款開場白模板（財運恐懼型、時空借運型等） |
+| 三 | 9 款三梯隊書面語開場白（A3、B1、A1、B3、A5、B4、A2、B2、B5） |
+| 四 | 3 大高留存率錄製技巧（語速、眼神、節奏） |
+| 五 | 影片類型 × 開場白對照表 |
+| 六 | 拍片 8 個致命地雷 |
+| 七 | 腳本分配時長參考 |
+| 八 | 結尾 CTA 三角模板 |
 
 ---
 
 ## YouTube 演算法三大核心機制（摘要）
 
 ### 機制 1｜CTR 點擊誘因
-系統先把影片推給一小批受眾測試，若 CTR ≥ 7%（命理類目標值），才進行大規模擴散。
+系統先把影片推給一小批受眾測試，若 CTR ≥ 7%（命理類目標値），才進行大規模擴散。
 縮圖必須有真人臉＋命盤符號，標題用情緒鉤子，禁用片頭動畫開場。
 
 ### 機制 2｜AVD 觀看留存率
