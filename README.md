@@ -1,6 +1,6 @@
 # 🌙 Linara 凌璇｜月華星算 Luna's Astral Code
 > YouTube 頻道知識庫 ｜ FORTRESS 五腦增長操作系統 — 飛輪 #2 YouTube 內容資產階段
-> 最後更新：2026-07-21 ｜ 版本 v1.7
+> 最後更新：2026-07-21 ｜ 版本 v1.8
 
 ---
 
@@ -8,7 +8,7 @@
 
 | 項目 | 內容 |
 |------|------|
-| 頻道名稱 | Linara 凌璇＠月華星算 Luna's Astral Code |
+| 頻道名稱 | Linara 凌璇／月華星算 Luna's Astral Code |
 | 頻道連結 | [@Linara_LunasAstralCode](https://www.youtube.com/@Linara_LunasAstralCode) |
 | 定位 | 紫微斗數 × 奇門遁甲雙軌命理｜礦石風水布局 |
 | 命理 IG | [lunasastralcode](https://www.instagram.com/lunasastralcode) |
@@ -20,26 +20,27 @@
 
 | 文件 | 內容摘要 | 版本 | 狀態 |
 |------|---------|------|------|
-| [ALGORITHM_VIRAL_RULES.md](./ALGORITHM_VIRAL_RULES.md) | YouTube 演算法三大機制 × 爆款四大法則，含 SOP Checklist、KPI、系列架構 | v1.1 | ✅ |
+| [ALGORITHM_VIRAL_RULES.md](./ALGORITHM_VIRAL_RULES.md) | YouTube 演算法三大機制 × 爆款四大法則，含 SOP Checklist、KPI、系列架構 | v1.2 | ✅ |
 | [SEO_KEYWORDS.md](./SEO_KEYWORDS.md) | 紫微斗數 × 奇門遁甲 SEO 關鍵字全庫，含 Tag 套組、禁用詞、映射公式 | v1.2 | ✅ |
-| [CONTENT_CALENDAR.md](./CONTENT_CALENDAR.md) | 9 款選題類型優先序 × 8 月第一個月 8 條影片發布計劃，含 Shorts、選題決策樹、系列對應 | v1.3 | ✅ |
-| [SCRIPT_TEMPLATE.md](./SCRIPT_TEMPLATE.md) | 三段式腳本結構 × 10 款爆款開場白 × 9 款三梯隊開場白 × 3 大錄製技巧 × 8 個致命地雷 × CTA 三角模板 × CTA 分段植入術 | v1.4 | ✅ |
+| [CONTENT_CALENDAR.md](./CONTENT_CALENDAR.md) | 9 款選題類型優先序 × 8 月第一個月 12 條影片發布計劃，含Shorts、CTA輪替表、選題決策樹 | v1.4 | ✅ |
+| [SCRIPT_TEMPLATE.md](./SCRIPT_TEMPLATE.md) | 長片三段式結構 × Shorts三段式結構 × 10款爆款開場白 × 9款三梯隊開場白 × 8個致命地雷 × CTA三角模板 × CTA輪替谷 | v1.5 | ✅ |
 
 ---
 
-## SCRIPT_TEMPLATE 內容結構（v1.4）
+## SCRIPT_TEMPLATE 內容結構（v1.5）
 
 | 章節 | 內容 |
 |------|------|
-| 一 | 腳本三段式結構（Hook 開場 / 主體 / CTA 三角） |
-| 二 | 10 款爆款開場白模板（財運恐懼型、時空借運型等） |
+| 一 | 長片腳本三段式結構（Hook 開場 / 主體 / CTA 三角） |
+| 一B | Shorts 三段式腳本結構（A1 類型專用，衝擊鉤子→核心乾貨→CTA跳板） |
+| 二 | 10 款爆款開場白模板（廣東話口語版：財運恐懼型、時空借運型等） |
 | 三 | 9 款三梯隊書面語開場白（A3、B1、A1、B3、A5、B4、A2、B2、B5） |
 | 四 | 3 大高留存率錄製技巧（語速、眼神、節奏） |
-| 五 | 影片類型 × 開場白對照表 |
-| 六 | 拍片 8 個致命地雷 |
-| 七 | 腳本分配時長參考 |
+| 五 | 影片類型 × 開場白對照表（已修正B5對應模板） |
+| 六 | 拍片 8 個致命地雷（已修正CTA自相矛盾位） |
+| 七 | 腳本分配時長參考（B4分入門版/深度版兩軌） |
 | 八 | 結尾 CTA 三角模板 |
-| 九 | CTA 分段植入術（前段留言／中段諮詢或產品／片尾導流下一條） |
+| 九 | CTA 分段植入術（前段留言 / 中段輪替循環 / 片尾導流下一條） |
 
 ---
 
@@ -72,7 +73,7 @@
 | 🥉 | B5 | 宏觀大預言型 | 跨圈層破同溫層 |
 
 > ⚠️ A4（名人命盤型）暫擱，品牌護城河建立後再評估
-> 📌 完整選題表、發布計劃、系列對應 → [CONTENT_CALENDAR.md](./CONTENT_CALENDAR.md)
+> 📌 完整選題表、發布計劃、CTA輪替表 → [CONTENT_CALENDAR.md](./CONTENT_CALENDAR.md)
 
 ---
 
@@ -83,7 +84,7 @@
 | CTR | 3–4% | ≥ 7% |
 | AVD | 40% | ≥ 55% |
 | 訂閱轉化率 | 0.5% | ≥ 2% |
-| 月發布量 | 8–10條 | 12–16條 |
+| 月發布量 | **8–12條（長片 6–8 + Shorts 2–4）** | 12–16條 |
 | IG 引流轉化 | 未知 | ≥ 3% 觀看人次 |
 
 ---
@@ -95,6 +96,16 @@
 🔄 #2 YouTube（2026/8）— 當前階段，內容資產建設中
 ⏳ #3 盲盒＋命格套組（2026/9-10）— 待 #2 流量驗證後啟動
 ```
+
+---
+
+## 修正歷史（本倉庫）
+
+| 版本 | 日期 | 主要變動 |
+|------|------|--------|
+| v1.0–v1.6 | 2026-07-21 | 初始建庫，5份文檔建立 |
+| v1.7 | 2026-07-21 | 全部文檔第一次建立完毕 |
+| v1.8 | 2026-07-21 | 跨文檔審計修正：SCRIPT v1.5（修正7大漏洞）、CALENDAR v1.4（Week1首條改A3、CTA輪替表）、ALGORITHM v1.2（KPI月發布量對齊） |
 
 ---
 
