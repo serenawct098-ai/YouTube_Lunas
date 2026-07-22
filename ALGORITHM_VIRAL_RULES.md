@@ -1,8 +1,6 @@
 # YouTube 演算法三大核心機制 × 爆款四大法則
 > 適用頻道：[Linara 凌璇｜月華星算 Luna's Astral Code](https://www.youtube.com/@Linara_LunasAstralCode)
 > 最後更新：2026-07-21｜版本 v1.2
-> 修正記錄：v1.1→v1.2：KPI 月發布量由「8–10條」修正為「8–12條（長片 6–8 + Shorts 2–4）」，對齊 CONTENT_CALENDAR v1.4 及 README v1.8。SOP Checklist 新增 CTA 輪替檢查項。
-
 ---
 
 ## 一、YouTube 演算法三大核心機制
@@ -134,5 +132,3 @@
 ---
 
 > 📌 本文件適用系統：FORTRESS 五腦增長操作系統｜飛輪 #2 YouTube 內容資產階段
-> 版本歷史：v1.0 初版 → v1.1 演算法機制補充 → v1.2 KPI月發布量對齊、SOP新增CTA輪替項、斷路器補入
-> 下一步文件：[CONTENT_CALENDAR.md](./CONTENT_CALENDAR.md)（30天內容發佈計劃）
