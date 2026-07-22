@@ -1,6 +1,6 @@
 # 🌙 Linara 凌璇｜月華星算 Luna's Astral Code
 > YouTube 頻道知識庫 ｜ FORTRESS 五腦增長操作系統 — 飛輪 #2 YouTube 內容資產階段
-> 最後更新：2026-07-21 ｜ 版本 v1.8
+> 最後更新：2026-07-22 ｜ 版本 v1.9
 
 ---
 
@@ -20,6 +20,7 @@
 
 | 文件 | 內容摘要 | 版本 | 狀態 |
 |------|---------|------|------|
+| [IP_VISUAL_IDENTITY.md](./IP_VISUAL_IDENTITY.md) | IP人物設定卡 × 口吻系統 × 視覺規範（色彩/構圖/Logo） × AI縮圖Prompt模板 | v1.0 | ✅ NEW |
 | [ALGORITHM_VIRAL_RULES.md](./ALGORITHM_VIRAL_RULES.md) | YouTube 演算法三大機制 × 爆款四大法則，含 SOP Checklist、KPI、系列架構 | v1.2 | ✅ |
 | [SEO_KEYWORDS.md](./SEO_KEYWORDS.md) | 紫微斗數 × 奇門遁甲 SEO 關鍵字全庫，含 Tag 套組、禁用詞、映射公式 | v1.2 | ✅ |
 | [CONTENT_CALENDAR.md](./CONTENT_CALENDAR.md) | 9 款選題類型優先序 × 8 月第一個月 12 條影片發布計劃，含Shorts、CTA輪替表、選題決策樹 | v1.4 | ✅ |
@@ -106,6 +107,7 @@
 | v1.0–v1.6 | 2026-07-21 | 初始建庫，5份文檔建立 |
 | v1.7 | 2026-07-21 | 全部文檔第一次建立完毕 |
 | v1.8 | 2026-07-21 | 跨文檔審計修正：SCRIPT v1.5（修正7大漏洞）、CALENDAR v1.4（Week1首條改A3、CTA輪替表）、ALGORITHM v1.2（KPI月發布量對齊） |
+| v1.9 | 2026-07-22 | 新增 IP_VISUAL_IDENTITY.md v1.0（人物設定卡、口吻系統、視覺規範、AI縮圖Prompt） |
 
 ---
 
