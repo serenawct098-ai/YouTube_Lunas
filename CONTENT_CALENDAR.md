@@ -1,7 +1,6 @@
 # 🗓️ CONTENT CALENDAR — 月華星算 Luna's Astral Code
 > 適用頻道：[Linara 凌璇｜月華星算 Luna's Astral Code](https://www.youtube.com/@Linara_LunasAstralCode)
 > 最後更新：2026-07-21 ｜ 版本 v1.4
-> 修正記錄：v1.3→v1.4：① Week 1 首條影片由B1改為A3痛點型（對齊README定案及FORTRESS飛輪策略）。② Shorts比例說明更正為正確的緻小個數。③ KPI月發布量對齊至 8–12 條。
 
 ---
 
@@ -155,5 +154,3 @@ Shorts：細30–35% — A1 奇門借運導流（每週 1–2 條）
 ---
 
 > 📌 本文件適用系統：FORTRESS 五腦增長操作系統｜飛輪 #2 YouTube 內容資產階段
-> 版本歷史：v1.0 初版 → v1.3 系列架構完善 → v1.4 Week1首條改A3、對齊CTA輪替規則、KPI對齊至 8–12 條
-> 相關文件：[SEO_KEYWORDS.md](./SEO_KEYWORDS.md) ｜ [ALGORITHM_VIRAL_RULES.md](./ALGORITHM_VIRAL_RULES.md) ｜ [SCRIPT_TEMPLATE.md](./SCRIPT_TEMPLATE.md)
