@@ -1,6 +1,6 @@
 # 🎭 LINARA IP 人物設定卡 ＋ 視覺規範系統
 > YouTube 頻道 IP 品牌核心文件 ｜ FORTRESS 五腦增長操作系統
-> 版本：v1.1 ｜ 最後更新：2026-07-23 ｜ 狀態：✅ 已鎖定
+> 版本：v1.2 ｜ 最後更新：2026-07-23 ｜ 狀態：✅ 已鎖定
 
 ---
 
@@ -48,6 +48,7 @@
 | 其實 | （刪除，直接陳述事實）|
 | 根本 | （刪除，改用具體描述）|
 | 不是……而是…… | （禁用，改用語意自然過渡）|
+| 唔係……而係…… | （禁用，同屬 AI 模板句，改用語意自然過渡）|
 
 ### 2.2 情緒助詞清單（廣東話口播 / TTS 專用）
 
@@ -58,6 +59,7 @@
 
 > ⚠️ 注意：`喺` 係介詞（「在」之意），非情緒助詞，已從本清單移除。
 > 書面語版（字幕/卡字/正文）助詞僅用：`啦` `咦` `嗯` `啊`（每段不超過1個）
+> `囉` 屬廣東話口語語氣詞，書面字幕版禁用，僅限口播 / TTS。
 
 ### 2.3 反問句勾共鳴（廣東話口播專用）
 
@@ -74,13 +76,11 @@
 **節奏模板示範（廣東話口播）：**
 ```
 「你知唔知道⋯⋯（停0.5秒）
-你本命盤入面，其實已經寫咗⋯⋯
+你本命盤入面，已經寫咗⋯⋯
 你今年係唔係會破財喎。（停0.5秒）
 係咪覺得好驚？（停0.5秒）
 唔使怕，聽我講喇。」
 ```
-
-> ✅ 修正：口播示範第五句「其實唔使怕」→「唔使怕」（刪禁用詞「其實」）
 
 ### 2.5 字幕規範（三層語言分工）
 
@@ -134,7 +134,7 @@
 ```
 cinematic YouTube thumbnail, 16:9 ratio,
 dark navy background #0D0D2B, cosmic star nebula bokeh,
-East Asian female astrologer with long black hair, deep blue star-pattern robe,
+Hong Kong Chinese female astrologer with long black hair, deep blue star-pattern robe,
 holding glowing zi wei dou shu natal chart orb,
 right side large Chinese title text in gold #C9A84C,
 top right corner "Luna's Astral Code" logo watermark,
@@ -179,6 +179,7 @@ cinematic lighting, mystical atmosphere, ultra HD, 4K
 |------|------|---------|
 | v1.0 | 2026-07-22 | 初版建立：人物設定卡、口吻系統、視覺規範、Logo規範 |
 | v1.1 | 2026-07-23 | P2語言規範統一：§2.1新增禁用詞「其實」「根本」「不是……而是……」；§2.2助詞清單移除「喺」（介詞非助詞）並分廣東話口播/書面語兩版；§2.4口播示範刪「其實」；§2.5字幕規範擴展為三層語言分工表 |
+| v1.2 | 2026-07-23 | 細節清修：§2.4殘留「其實」徹底刪除；§2.1補「唔係……而係……」廣東話等效禁用句；§2.2補「囉」書面字幕禁用說明；§3.3 Prompt人種描述由「East Asian」精準化為「Hong Kong Chinese」 |
 
 ---
 
