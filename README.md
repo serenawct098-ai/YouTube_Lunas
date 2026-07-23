@@ -102,16 +102,4 @@ WhatsApp wa.me/85295466508（成交）
 
 ---
 
-## 修正歷史（本倉庫）
-
-| 版本 | 日期 | 主要變動 |
-|------|------|--------|
-| v1.0–v1.6 | 2026-07-21 | 初始建庫，5份文檔建立 |
-| v1.7 | 2026-07-21 | 全部文檔第一次建立完毕 |
-| v1.8 | 2026-07-21 | 跨文檔審計修正：SCRIPT v1.5、CALENDAR v1.4、ALGORITHM v1.2 |
-| v1.9 | 2026-07-22 | 新增 IP_VISUAL_IDENTITY.md v1.0 |
-| v2.0 | 2026-07-23 | 新增 MONETIZATION_CTA.md v1.0（變現漏斗＋CTA三層系統＋Description模板＋Phase時序表）；README新增WhatsApp連結及變現漏斗摘要 |
-
----
-
 > 🔮 本倉庫適用系統：FORTRESS 五腦增長操作系統｜由 [Linara 凌璇](https://www.instagram.com/lunasastralcode) 維護
