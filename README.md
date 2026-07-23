@@ -1,6 +1,6 @@
 # 🌙 Linara 凌璇｜月華星算 Luna's Astral Code
 > YouTube 頻道知識庫 ｜ FORTRESS 五腦增長操作系統 — 飛輪 #2 YouTube 內容資產階段
-> 最後更新：2026-07-22 ｜ 版本 v1.9
+> 最後更新：2026-07-23 ｜ 版本 v2.0
 
 ---
 
@@ -13,6 +13,7 @@
 | 定位 | 紫微斗數 × 奇門遁甲雙軌命理｜礦石風水布局 |
 | 命理 IG | [lunasastralcode](https://www.instagram.com/lunasastralcode) |
 | 礦石 IG | [lunasstoneatelier](https://www.instagram.com/lunasstoneatelier) |
+| WhatsApp | [wa.me/85295466508](http://wa.me/85295466508) |
 
 ---
 
@@ -20,7 +21,8 @@
 
 | 文件 | 內容摘要 | 版本 | 狀態 |
 |------|---------|------|------|
-| [IP_VISUAL_IDENTITY.md](./IP_VISUAL_IDENTITY.md) | IP人物設定卡 × 口吻系統 × 視覺規範（色彩/構圖/Logo） × AI縮圖Prompt模板 | v1.0 | ✅ NEW |
+| [MONETIZATION_CTA.md](./MONETIZATION_CTA.md) | 變現漏斗架構 × CTA三層植入系統 × Description模板 × 變現時序Phase 1–4 | v1.0 | ✅ NEW |
+| [IP_VISUAL_IDENTITY.md](./IP_VISUAL_IDENTITY.md) | IP人物設定卡 × 口吻系統 × 視覺規範（色彩/構圖/Logo） × AI縮圖Prompt模板 | v1.0 | ✅ |
 | [ALGORITHM_VIRAL_RULES.md](./ALGORITHM_VIRAL_RULES.md) | YouTube 演算法三大機制 × 爆款四大法則，含 SOP Checklist、KPI、系列架構 | v1.2 | ✅ |
 | [SEO_KEYWORDS.md](./SEO_KEYWORDS.md) | 紫微斗數 × 奇門遁甲 SEO 關鍵字全庫，含 Tag 套組、禁用詞、映射公式 | v1.2 | ✅ |
 | [CONTENT_CALENDAR.md](./CONTENT_CALENDAR.md) | 9 款選題類型優先序 × 8 月第一個月 12 條影片發布計劃，含Shorts、CTA輪替表、選題決策樹 | v1.4 | ✅ |
@@ -28,20 +30,19 @@
 
 ---
 
-## SCRIPT_TEMPLATE 內容結構（v1.5）
+## 變現漏斗架構（摘要）
 
-| 章節 | 內容 |
-|------|------|
-| 一 | 長片腳本三段式結構（Hook 開場 / 主體 / CTA 三角） |
-| 一B | Shorts 三段式腳本結構（A1 類型專用，衝擊鉤子→核心乾貨→CTA跳板） |
-| 二 | 10 款爆款開場白模板（廣東話口語版：財運恐懼型、時空借運型等） |
-| 三 | 9 款三梯隊書面語開場白（A3、B1、A1、B3、A5、B4、A2、B2、B5） |
-| 四 | 3 大高留存率錄製技巧（語速、眼神、節奏） |
-| 五 | 影片類型 × 開場白對照表（已修正B5對應模板） |
-| 六 | 拍片 8 個致命地雷（已修正CTA自相矛盾位） |
-| 七 | 腳本分配時長參考（B4分入門版/深度版兩軌） |
-| 八 | 結尾 CTA 三角模板 |
-| 九 | CTA 分段植入術（前段留言 / 中段輪替循環 / 片尾導流下一條） |
+```
+YouTube 影片（曝光 × SEO）
+        ↓
+IG @lunasastralcode（信任建立）
+        ↓
+WhatsApp wa.me/85295466508（成交）
+        ↓
+一對一命理諮詢（主力）＋ 礦石訂製（次力）
+```
+
+> 📌 完整CTA系統、Description模板、Phase時序表 → [MONETIZATION_CTA.md](./MONETIZATION_CTA.md)
 
 ---
 
@@ -87,6 +88,7 @@
 | 訂閱轉化率 | 0.5% | ≥ 2% |
 | 月發布量 | **8–12條（長片 6–8 + Shorts 2–4）** | 12–16條 |
 | IG 引流轉化 | 未知 | ≥ 3% 觀看人次 |
+| 月諮詢成交（Phase 1） | — | 3–5單 |
 
 ---
 
@@ -106,8 +108,9 @@
 |------|------|--------|
 | v1.0–v1.6 | 2026-07-21 | 初始建庫，5份文檔建立 |
 | v1.7 | 2026-07-21 | 全部文檔第一次建立完毕 |
-| v1.8 | 2026-07-21 | 跨文檔審計修正：SCRIPT v1.5（修正7大漏洞）、CALENDAR v1.4（Week1首條改A3、CTA輪替表）、ALGORITHM v1.2（KPI月發布量對齊） |
-| v1.9 | 2026-07-22 | 新增 IP_VISUAL_IDENTITY.md v1.0（人物設定卡、口吻系統、視覺規範、AI縮圖Prompt） |
+| v1.8 | 2026-07-21 | 跨文檔審計修正：SCRIPT v1.5、CALENDAR v1.4、ALGORITHM v1.2 |
+| v1.9 | 2026-07-22 | 新增 IP_VISUAL_IDENTITY.md v1.0 |
+| v2.0 | 2026-07-23 | 新增 MONETIZATION_CTA.md v1.0（變現漏斗＋CTA三層系統＋Description模板＋Phase時序表）；README新增WhatsApp連結及變現漏斗摘要 |
 
 ---
 
